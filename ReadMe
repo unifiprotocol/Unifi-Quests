@@ -1,6 +1,12 @@
 This is a Quests, Bounties, and Grant list for Unifi related projects, Please check the "Issues" or the Sesameseed Gitcoin for availible grants.
 
-	 Token	                                Unifi                             	Contract details and abi
+Public Unifi API's
+
+https://tron.unifiprotocol.com/api/v1/pools/tron
+
+Tokens listed on Unifi (TRON)
+
+ID	 Token	                                Unifi                             	Contract details and abi
 UP	 TJ93jQZibdB3sriHYb5nNwjgkPPAcFR7ty	TUxqQp2qXUx7hT2F6Zx4hy85n8o9L9bzM9	https://tronscan.org/#/contract/TUxqQp2qXUx7hT2F6Zx4hy85n8o9L9bzM9/code
 SEED	 TBwoSTyywvLrgjSgaatxrBhxt3DGpVuENh	TMFvnLMR1r1awHVGZsciwP4e3PVD7eiMWe	https://tronscan.org/#/contract/TMFvnLMR1r1awHVGZsciwP4e3PVD7eiMWe/code
 USDT	 TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t	TYmbq6sGxEe2VkhpSpvfiw5f8ir5HxpAun	https://tronscan.org/#/contract/TYmbq6sGxEe2VkhpSpvfiw5f8ir5HxpAun/code
